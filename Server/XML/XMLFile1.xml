@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list>
+  <User>
+    <Name>bela</Name>
+    <Password>hello</Password>
+  </User>
+  <User>
+    <Name>geza</Name>
+    <Password>mezga</Password>
+  </User>
+  <User>
+    <Name>adam</Name>
+    <Password>éva</Password>
+  </User>
+  <User>
+    <Name>Némo</Name>
+    <Password>nyomában</Password>
+  </User>
+  <User>
+    <Name>robert</Name>
+    <Password>karoly</Password>
+  </User>
+</list>
